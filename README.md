@@ -7,3 +7,5 @@ Resources
 https://nf-co.re/deepvariant/1.0/docs/output 
 https://github.com/google/deepvariant/blob/r1.2/docs/deepvariant-details.md
 https://medium.com/@alaincoletta/how-to-create-a-nextflow-pipeline-with-all-necessary-tools-for-a-series-of-repetitive-35cf5b3b19a8
+https://github.com/lifebit-ai/DeepVariant
+https://github.com/nf-core/deepvariant/blob/master/docs/installation.md#31-software-deps-docker-and-singularity
